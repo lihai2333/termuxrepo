@@ -1,0 +1,13 @@
+Package: fgit-go
+Version: 7.0
+Architecture: all
+Maintainer: @Kevin
+Description: Speed up the github
+Homepage: https://fastgit.org
+Filename: dists/stable/main/binary-all/fgit-go_7.0_all.deb
+Size: 2832664
+MD5Sum: e84b5e5b73e8c51080da57e7a8009cbb
+SHA1: 58fb644d285cb303618ca3457ab5559b4fbff613
+SHA256: 36fa50c93ae45ef78813657aef6b82c1f96a41850e3a1a9add68c8e283d3eb10
+SHA512: f37fbe58f7470d0ce8f1a6d6f3864152d7d3f79360336ba41bd471188f5fe1e1cf1619cb5f4b9735904c73721646fea915f35ce0e6272ee51cc41a56e85946d8
+
