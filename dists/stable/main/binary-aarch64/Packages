@@ -1,6 +1,7 @@
 Package: fgit-go
 Version: 7.0
 Architecture: aarch64
+Installed-Size: 7044
 Maintainer: @Kevin
 Description: Speed up the github
 Homepage: https://fastgit.org
