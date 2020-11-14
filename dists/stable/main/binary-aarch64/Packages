@@ -1,14 +1,14 @@
 Package: fgit-go
 Version: 7.0
-Installed-Size: 2.9 M
+Installed-Size: 7048
 Architecture: aarch64
 Maintainer: @Kevin
 Description: Speed up the github
 Homepage: https://fastgit.org
 Filename: dists/stable/main/binary-aarch64/fgit-go_7.0_aarch64.deb
-Size: 2831932
-MD5Sum: d1b70a2b7f52a6441d357fda87fe4094
-SHA1: 69766e3769eb9170316d3bde60ca6f954e1d30c4
-SHA256: 8febea68e4177e55537d951c345618e3e5c4af10c5ea6fe2f4927a93d9426e28
-SHA512: 35faf9a765e55638b294207f69d88704194deb0c87d1fda634a1dae4263df958deb124e61335441d9ed5f8ae5a4307997fa1a638932e65739cce30e00807e007
+Size: 2832204
+MD5Sum: ffd8d759f908c17a883e1b734971a79d
+SHA1: d68dff018973099af114ab2a5167c5e9cca43765
+SHA256: 6d9c0860995c8cf5f09b3e1a0135dc7f6dd7cefb079b3a3f2d5b2d81a6bf7ce6
+SHA512: 0bbec80044d24338e2987deea02bc53acd4edad2a3631448713318c01196a1921e729a735947f7c6d5e12461198012f556b24207cf163dd1bce2099b8a0eb61b
 
