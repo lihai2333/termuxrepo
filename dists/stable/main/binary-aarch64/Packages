@@ -12,3 +12,18 @@ SHA1: d68dff018973099af114ab2a5167c5e9cca43765
 SHA256: 6d9c0860995c8cf5f09b3e1a0135dc7f6dd7cefb079b3a3f2d5b2d81a6bf7ce6
 SHA512: 0bbec80044d24338e2987deea02bc53acd4edad2a3631448713318c01196a1921e729a735947f7c6d5e12461198012f556b24207cf163dd1bce2099b8a0eb61b
 
+Package: fgit-nodejs
+Version: 1.1.4
+Architecture: aarch64
+Maintainer: https://github.com/lihai2333
+Description: Speed up github warehouse cloning, file download
+Installed-Size: 20
+Homepage: https://github.com/fastgitorg/fgit-nodejs
+Depends: nodejs
+Filename: dists/stable/main/binary-aarch64/fgit-nodejs_1.1.4_aarch64.deb
+Size: 2608
+MD5Sum: 1dd53d32be814c589d2f8944ffe4e630
+SHA1: 2711327b94e93e7639f8613efc9cccbebb2aa335
+SHA256: e0a926b786323305d1d652354eec91c20ed8c96d266731723952ab328c50b5fd
+SHA512: 315e6706d54abdfedd4155291f9e1817d7d2f58daff12666d654ec55e7b6c6d4bcc204ffdff06a39149984eaf55e2fa2457a84b3875d778bbab378071d3d69b9
+

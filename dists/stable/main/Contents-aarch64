@@ -1,1 +1,6 @@
 data/data/com.termux/files/usr/bin/fgit-go                                       fgit-go
+data/data/com.termux/files/usr/bin/fgit-js                                       fgit-nodejs
+data/data/com.termux/files/usr/lib/dl.js                                         fgit-nodejs
+data/data/com.termux/files/usr/lib/git.js                                        fgit-nodejs
+data/data/com.termux/files/usr/lib/ping.js                                       fgit-nodejs
+data/data/com.termux/files/usr/lib/raw.js                                        fgit-nodejs
